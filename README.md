@@ -2,10 +2,10 @@
 
 ![Untitled](README/Untitled.png)
 
-**Technology**: AWS Athena, AWS Glue Catalog, Apache Airflow, DataHub, Tableau
-**Group**: [Programmers.co.kr](http://programmers.co.kr/) (Data Engineer Trainee)
-**People**: 5 people
-**Duration**: February 13, 2024 → March 10, 2024
+- **Technology**: AWS Athena, AWS Glue Catalog, Apache Airflow, DataHub, Tableau
+- **Group**: [Programmers.co.kr](http://programmers.co.kr/) (Data Engineer Trainee)
+- **People**: 5 people
+- **Duration**: February 13, 2024 → March 10, 2024
 
 ### Objective
 
